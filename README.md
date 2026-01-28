@@ -22,10 +22,10 @@ A small machine learning project using the classic **Iris dataset** to:
 ## Results (this run)
 - Best tuned SVM achieved ~**97% test accuracy** (≈2 errors out of 75).
 
-## How to run
-### 1) Install
-```bash
-pip install numpy matplotlib scikit-learn jupyter
-# Optional (used for helper plots/tables in the notebook):
-pip install ISLP
+## Package
+- numpy
+- matplotlib
+- scikit-learn
+
+
 
